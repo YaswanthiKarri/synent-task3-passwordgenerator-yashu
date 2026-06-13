@@ -15,7 +15,7 @@ A Python command-line application that generates strong random passwords.
 ## How to Run
 1. Open terminal.
 2. Run:
-   python main.py
+   python Password.py
 3. Enter the password length.
 4. Get a strong random password.
 
